@@ -1,0 +1,1 @@
+{"name":"iPlayRadio","short_name":"iPlayRadio","start_url":"/iPlayRadio/","display":"standalone","background_color":"#ffffff","lang":"en","scope":"/iPlayRadio/","description":"iPlayRadio: Uniting Music Lovers Worldwide","theme_color":"#000000","icons":[{"src":"pwa-192x192.png","sizes":"192x192","type":"image/png"},{"src":"pwa-512x512.png","sizes":"512x512","type":"image/png"}]}
